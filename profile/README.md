@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>A Siliconarch é uma startup brasileira especializada em soluções integradas de software e hardware modular. Apesar de enxuta, nossa equipe é movida por um compromisso inabalável com a excelência técnica e a entrega de projetos de alto impacto.</em>
+  <em>Siliconarch is a Brazilian startup specializing in integrated modular software and hardware solutions. Despite being lean, our team is driven by an unwavering commitment to technical excellence and delivering high-impact projects.</em>
 </p>
 
 <p align="center">
