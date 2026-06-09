@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  <a href="https://elauncher.site"><strong>Emotion Multiplayer »</strong></a>
+  <a href="https://elauncher.site"><strong>Siliconarch Systems»</strong></a>
 </p>
