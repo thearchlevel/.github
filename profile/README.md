@@ -1,6 +1,6 @@
 <p align="center">
   <a aria-label="emotion.mp logo" href="https://elauncher.site">
-    <img src="https://imgur.com/9OY6XUX" width="420" />
+    <img src="https://i.imgur.com/9OY6XUX.png" width="420" />
   </a>
 </p>
 
