@@ -1,11 +1,11 @@
 <p align="center">
-  <a aria-label="emotion.mp logo" href="https://elauncher.site">
+  <a aria-label="silicon logo" href="https://siliconarch.org">
     <img src="https://i.imgur.com/9OY6XUX.png" width="420" />
   </a>
 </p>
 
 <p align="center">
-  <em>Emotion Multiplayer is a developer of codes and applications for SA-MP and OMP.</em>
+  <em>A Siliconarch é uma startup brasileira especializada em soluções integradas de software e hardware modular. Apesar de enxuta, nossa equipe é movida por um compromisso inabalável com a excelência técnica e a entrega de projetos de alto impacto.</em>
 </p>
 
 <p align="center">
@@ -19,9 +19,5 @@
 </p>
 
 <p align="center">
-  We create code and modifications for GTA San Andreas multiplayer platforms (SA-MP and Open.mp). We are not a multiplayer mod.
-</p>
-
-<p align="center">
-  <a href="https://elauncher.site"><strong>Siliconarch Systems»</strong></a>
+  <a href="https://siliconarch.org"><strong>Siliconarch Systems»</strong></a>
 </p>
