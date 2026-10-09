@@ -1,19 +1,9 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/99b936d9-2908-4a4b-93e7-86b96a18c2c0"
-    alt="The ArchLevel Softwares Banner"
+    alt="The ArchLevel Softwares"
     width="100%"
   />
-</p>
-
-<p align="center">
-  <a href="https://github.com/thearchlevel">
-    <img
-      src="https://i.imgur.com/uPK0Kko.png"
-      alt="The ArchLevel Softwares"
-      width="420"
-    />
-  </a>
 </p>
 
 <h3 align="center">
@@ -27,30 +17,28 @@
 
 <p align="center">
   We build technology with an emphasis on
-  <strong>performance, simplicity, modularity and technical precision</strong>,
+  <strong>performance, modularity, reliability and technical precision</strong>,
   working across the layers between hardware, software and infrastructure.
 </p>
 
-<br />
-
 <p align="center">
-  <a href="https://github.com/thearchlevel">
+  <a href="https://github.com/bravesdev">
     <img
-      src="https://img.shields.io/badge/GitHub-The%20ArchLevel-111111?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-Organization-111111?style=flat-square&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
 
-  <a href="https://thearchlevel.example">
+  <a href="https://welabsdev.site">
     <img
-      src="https://img.shields.io/badge/Website-ArchLevel-111111?style=for-the-badge&logo=firefox&logoColor=white"
+      src="https://img.shields.io/badge/Website-welabsdev.site-111111?style=flat-square&logo=firefox&logoColor=white"
       alt="Website"
     />
   </a>
 
   <a href="mailto:contato@welabsdev.site">
     <img
-      src="https://img.shields.io/badge/Contact-Email-111111?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Contact-contato%40welabsdev.site-111111?style=flat-square&logo=gmail&logoColor=white"
       alt="Contact"
     />
   </a>
@@ -64,18 +52,24 @@
 |---|---|
 | **Low-Level Software** | Systems programming, native tooling and performance-oriented software |
 | **Embedded Systems** | Microcontrollers, RTOS, firmware and hardware integration |
-| **Developer Tools** | Internal tooling, diagnostics, automation and engineering utilities |
-| **Modular Platforms** | Maintainable, scalable and extensible software architectures |
-| **Infrastructure** | Linux, databases, networking, services and real-time communication |
+| **Firmware** | Development, diagnostics, modification and reverse engineering |
+| **Developer Tools** | Diagnostics, automation and engineering utilities |
+| **Hardware** | PCB design, hardware modding and embedded experimentation |
+| **Infrastructure** | Linux, databases, networking and real-time services |
 
 ---
 
 <p align="center">
-  <strong>C · C++ · Assembly · RTOS · Linux · Firmware · Embedded · Systems Programming</strong>
+  <code>C</code> ·
+  <code>C++</code> ·
+  <code>Assembly</code> ·
+  <code>RTOS</code> ·
+  <code>Linux</code> ·
+  <code>Firmware</code> ·
+  <code>Embedded Systems</code> ·
+  <code>Hardware</code>
 </p>
 
 <p align="center">
-  <sub>
-    Designed and built with a low-level mindset.
-  </sub>
+  <sub>Built with a low-level mindset.</sub>
 </p>
