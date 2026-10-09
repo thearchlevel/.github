@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/99b936d9-2908-4a4b-93e7-86b96a18c2c0"
-    alt="The ArchLevel Softwares"
+    src="https://i.imgur.com/MfpJBqE.png"
+    alt="The ArchLevel Foundation"
     width="100%"
   />
 </p>
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bravesdev">
+  <a href="https://github.com/welabsdev">
     <img
       src="https://img.shields.io/badge/GitHub-Organization-111111?style=flat-square&logo=github&logoColor=white"
       alt="GitHub"
