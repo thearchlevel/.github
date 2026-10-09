@@ -1,6 +1,6 @@
 <p align="center">
   <a aria-label="silicon logo" href="https://thearchlevel">
-    <img src="blob:https://imgur.com/6fea7cb1-343c-4fd0-addd-179ce53c6f04" width="420" />
+    <img src="blob:https://imgur.com/f6ppkwG" width="420" />
   </a>
 </p>
 
