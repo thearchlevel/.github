@@ -1,0 +1,75 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="360"
+  height="82"
+  viewBox="0 0 360 82"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Made in Brazil</title>
+
+  <desc id="desc">
+    The Archlevel Foundation — Made in Brazil
+  </desc>
+
+  <rect
+    width="360"
+    height="82"
+    rx="0"
+    fill="transparent"
+  />
+
+  <g
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+  >
+
+    <text
+      x="180"
+      y="42"
+      text-anchor="middle"
+      font-size="25"
+      font-weight="400"
+      fill="#8b949e"
+    >
+      Made in
+
+      <tspan
+        font-weight="700"
+        fill="#f0f6fc"
+      >
+        Brazil
+      </tspan>
+    </text>
+
+  </g>
+
+  <!-- Brazil colors -->
+
+  <rect
+    x="101"
+    y="58"
+    width="52"
+    height="3"
+    rx="1.5"
+    fill="#009C3B"
+  />
+
+  <rect
+    x="153"
+    y="58"
+    width="54"
+    height="3"
+    rx="1.5"
+    fill="#FFDF00"
+  />
+
+  <rect
+    x="207"
+    y="58"
+    width="52"
+    height="3"
+    rx="1.5"
+    fill="#002776"
+  />
+
+</svg>
