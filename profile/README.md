@@ -6,10 +6,6 @@
   />
 </p>
 
-<h3 align="center">
-  Software closer to the hardware
-</h3>
-
 <p align="center">
   <img
     src="made-in-brazil.svg"
@@ -17,6 +13,9 @@
     width="250"
   />
 </p>
+<h3 align="center">
+  Software closer to the hardware
+</h3>
 
 <p align="center">
   <strong>The Archlevel Foundation</strong> is a Brazilian
