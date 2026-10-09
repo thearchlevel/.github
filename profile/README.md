@@ -11,7 +11,8 @@
 </h3>
 
 <p align="center">
-  <strong>The ArchLevel Softwares</strong> is a Brazilian software organization focused on
+  <strong>The ArchLevel Softwares</strong> is a Brazilian
+  <strong>non-profit technology organization</strong> focused on
   low-level development, embedded systems, developer tooling and modular software solutions.
 </p>
 
@@ -19,6 +20,11 @@
   We build technology with an emphasis on
   <strong>performance, modularity, reliability and technical precision</strong>,
   working across the layers between hardware, software and infrastructure.
+</p>
+
+<p align="center">
+  Our mission is to develop and share technical solutions, tools and open projects
+  that encourage learning, experimentation and innovation across software and hardware.
 </p>
 
 <p align="center">
@@ -42,6 +48,11 @@
       alt="Contact"
     />
   </a>
+
+  <img
+    src="https://img.shields.io/badge/Non--Profit-Organization-111111?style=flat-square&logo=opensourceinitiative&logoColor=white"
+    alt="Non-Profit Organization"
+  />
 </p>
 
 ---
@@ -56,6 +67,17 @@
 | **Developer Tools** | Diagnostics, automation and engineering utilities |
 | **Hardware** | PCB design, hardware modding and embedded experimentation |
 | **Infrastructure** | Linux, databases, networking and real-time services |
+
+---
+
+### Our principles
+
+- **Open technical development**
+- **Knowledge sharing**
+- **Engineering over hype**
+- **Performance and reliability**
+- **Modularity and maintainability**
+- **Community-driven experimentation**
 
 ---
 
