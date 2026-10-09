@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src=".made-in-brazil.svg"
+    src="made-in-brazil.svg"
     alt="Made in Brazil"
     width="250"
   />
