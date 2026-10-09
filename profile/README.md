@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  Software closer to the system.
+  Software closer to the hardware
 </h3>
 
 <p align="center">
