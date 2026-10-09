@@ -1,6 +1,6 @@
-<p align="center">
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/99b936d9-2908-4a4b-93e7-86b96a18c2c0" /><p align="center">
   <a aria-label="silicon logo" href="https://thearchlevel">
-    <img src="https://i.imgur.com/f6ppkwG.png" width="420" />
+    <img src="https://i.imgur.com/uPK0Kko.png" width="420" />
   </a>
 </p>
 
