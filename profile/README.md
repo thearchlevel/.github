@@ -94,37 +94,6 @@
 - **Software closer to the hardware**
 
 ---
-
-## Technology
-
-<p align="center">
-  <code>C</code>
-  ·
-  <code>C++</code>
-  ·
-  <code>Assembly</code>
-  ·
-  <code>RTOS</code>
-  ·
-  <code>Linux</code>
-  ·
-  <code>Microcontrollers</code>
-  ·
-  <code>Firmware</code>
-  ·
-  <code>Embedded Systems</code>
-  ·
-  <code>KiCad</code>
-  ·
-  <code>PCB Design</code>
-  ·
-  <code>MySQL</code>
-  ·
-  <code>Git</code>
-</p>
-
----
-
 ## Engineering areas
 
 ```text
